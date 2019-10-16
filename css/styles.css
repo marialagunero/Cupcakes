@@ -1,0 +1,17 @@
+body {
+  background-color: red;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+.class1 {
+  display: flex; /* or inline-flex */
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
